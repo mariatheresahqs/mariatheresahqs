@@ -1,8 +1,9 @@
+<!--
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=mariatheresahqs&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true&hide=stars"/>
     <img align=top  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariatheresahqs&theme=dark&layout=compact&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"/>
 <div>
-<!--
+
 **mariatheresahqs/mariatheresahqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
